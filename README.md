@@ -1,6 +1,17 @@
-## MATH BLAST
-Bu oyun, oyuncunun matematik problemlerini çözerek düşman gemilerini yok ettiği bir oyunudur. Ekranın üstünden düşman gemileri aşağıya doğru hareket eder ve her geminin üzerinde bir matematik problemi vardır. Oyuncu, doğru cevabı girerek gemileri yok eder ve puan toplar. 
-Oyun bittiğinde oyuncunun topladığı puan oyun sonu ekranında gösterilir ve oyuncuya yeniden başlama veya ana menüye dönme seçenekleri sunulur.
+## MATH BLAST 
+
+# ⦁ Oyunun Amacı
+Bu oyun, oyuncunun matematik problemlerini çözerek düşman gemilerini yok ettiği bir oyunudur. Ekranın üstünden düşman gemileri aşağıya doğru hareket eder ve her geminin üzerinde bir matematik problemi vardır. Oyuncu, doğru cevabı girerek gemileri yok eder ve puan toplar. Oyun bittiğinde oyuncunun topladığı puan oyun sonu ekranında gösterilir ve oyuncuya yeniden başlama veya ana menüye dönme seçenekleri sunulur.
+Oyunun amacı, oyuncuların matematiksel becerilerini ve hafızalarını test etmek, aynı zamanda hızlı düşünme ve karar verme yeteneklerini geliştirmektir. 
+
+# ⦁ Ölçüm
+Oyuncunun hesap yeteneği matematik sorusu ile ölçülecektir.
+Oyuncunun hafızası matematik sorusunun cevabını aklında tutması ve yazması ile ölçülecektir.
+Oyuncunun dikkati düşman gemileri sona ulaşmadan cevabı bulup yoketmesi ile ölçülecektir
+
+# ⦁	Puanlama Sistemi
+Oyuncu  doğru cevabı bulup düşman gemiyi patlatırsa puan kazanır.
+
 
 ## Oyunumun Tanıtım Videosu
 https://github.com/emirdmrrc/math-blast/assets/115268335/cb07cb9f-b84b-4107-9c3b-04bef41fd5aa
