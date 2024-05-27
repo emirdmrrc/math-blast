@@ -13,16 +13,16 @@ Oyuncunun dikkati düşman gemileri sona ulaşmadan cevabı bulup yoketmesi ile 
 Oyuncu  doğru cevabı bulup düşman gemiyi patlatırsa puan kazanır.
 
 
-## Oyunumun Tanıtım Videosu
+## ⦁ Oyunumun Tanıtım Videosu
 https://github.com/emirdmrrc/math-blast/assets/115268335/cb07cb9f-b84b-4107-9c3b-04bef41fd5aa
 
-## Oyunumun Giriş Ekranı 
+## ⦁ Oyunumun Giriş Ekranı 
 ![Main Menu](https://github.com/emirdmrrc/math-blast/assets/115268335/ecc7e046-ecd6-4ce6-af3b-014f2e04dabd)
 
-## Oyunumun Gameplay Ekranı
+## ⦁ Oyunumun Gameplay Ekranı
 ![Gameplay](https://github.com/emirdmrrc/math-blast/assets/115268335/0c9f1bbd-f1aa-46e4-b454-17d05558847d)
 
-## Oyunumun GameOver Ekranı
+## ⦁ Oyunumun GameOver Ekranı
 ![Game Over](https://github.com/emirdmrrc/math-blast/assets/115268335/a543a38e-4f85-40e2-857f-c31da79e41bf)
 
 
