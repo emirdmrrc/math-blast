@@ -14,3 +14,5 @@ Oyun bittiğinde oyuncunun topladığı puan oyun sonu ekranında gösterilir ve
 ![Game Over](https://github.com/emirdmrrc/math-blast/assets/115268335/a543a38e-4f85-40e2-857f-c31da79e41bf)
 
 ## Oyunumun Tanıtım Videosu
+https://github.com/emirdmrrc/math-blast/assets/115268335/cb07cb9f-b84b-4107-9c3b-04bef41fd5aa
+
